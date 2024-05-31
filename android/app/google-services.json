@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069344865931",
+    "project_id": "votex-755a2",
+    "storage_bucket": "votex-755a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069344865931:android:46f3c869fa38b5d8411e8e",
+        "android_client_info": {
+          "package_name": "com.umair.votex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nl9EACByEb_qJNiNjFNABLO43kE1DIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
